@@ -38,4 +38,21 @@ export const Quotes: {
     quote: "Forever alive in our hearts",
     author: "synthium",
   },
+  {
+    quote: "I’m happy we shared great memories together, from our duels where I got completely outclassed to the rank ceremony, events, and many more. I have a hard time watching these videos now; we didn’t know these were the good old days",
+    author: "Simon Hypixel",
+  },
+  {
+    quote: "Fly high, Technoblade. You will not be forgotten.",
+    author: "Digging_"    
+  },
+  {
+    quote: "He was truly a great man. He will be missed. See you soon buddy o7",
+    author: "hourX"    
+  },
+  {
+    quote: "I'm heartbroken that I'll never see a new technoblade video again. So long my friend, and may all your potato minions be tier 12 in heaven.",
+    author: "heurican"    
+  },
+ 
 ];
