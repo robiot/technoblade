@@ -16,4 +16,10 @@ export const Quotes: {
     quote: "He will always remain in our hearts <3",
     author: "Elliot",
   },
+  {
+    quote: "I dropkicked that child in self-defense",
+  },
+  {
+    quote: "Technoblade never dies",
+  },
 ];
