@@ -17,6 +17,10 @@ export const Quotes: {
     author: "Elliot",
   },
   {
+    quote: "A legend who hid his pain to make others smile. Will remain in my heart, always...",
+    author: "Ahnaf",
+  },
+  {
     quote: "I dropkicked that child in self-defense",
   },
   {
