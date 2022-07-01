@@ -22,4 +22,8 @@ export const Quotes: {
   {
     quote: "Technoblade never dies",
   },
+  {
+    quote: "So long, blood god",
+    author: "MSWord",
+  },
 ];
