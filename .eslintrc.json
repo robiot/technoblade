@@ -1,0 +1,22 @@
+{
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+      "ecmaVersion": 2021
+  },
+
+  "ignorePatterns": ["!**/*"],
+  "plugins": ["lvksh"],
+  "extends": [
+      "plugin:lvksh/recommended",
+      "plugin:styled-components-a11y/recommended",
+      "plugin:@next/next/recommended",
+      "plugin:react/recommended"
+  ],
+  "env": {
+      "node": true,
+      "browser": true
+  },
+  "rules": {
+      "quotes": ["error", "double"]
+  }
+}
