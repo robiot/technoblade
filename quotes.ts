@@ -26,4 +26,8 @@ export const Quotes: {
     quote: "He died but with great honor! A true hero.",
     author: "iSoham"
   },
+  {
+    quote: "So long, blood god",
+    author: "MSWord",
+  },
 ];
