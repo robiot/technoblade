@@ -22,4 +22,8 @@ export const Quotes: {
   {
     quote: "Technoblade never dies",
   },
+  {
+    quote: "He died but with great honor! A true hero.",
+    author: "iSoham"
+  },
 ];
