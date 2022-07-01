@@ -38,4 +38,8 @@ export const Quotes: {
     quote: "Forever alive in our hearts",
     author: "synthium",
   },
+  {
+    quote: "Long live the king ♥️",
+    author: "Vedrecide",
+  },
 ];
