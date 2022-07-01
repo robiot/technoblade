@@ -60,6 +60,7 @@ const Home: NextPage = () => {
             something. So I did what I'm best at.
           </p>
           <p>Any questions? Send them to techno@robiot.dev</p>
+          <p>Made by Robiot and DevGuyAhnaf</p>
           <p>rest in peace ❤️</p>
         </footer>
       </div>
