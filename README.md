@@ -29,6 +29,9 @@ export const Quotes: {
   },
 ];
 ```
+4. Once you are done writing. Scroll down and press `Propose changes` or `Commit changes`. 
+5. Now click the big green button that says "Create pull request"
+6. Done!
 
 ### If you need any help, feel free to open a issue here https://github.com/robiot/technoblade/issues, mail me at techo@robiot.dev or send me a dm on discord robiot#3455.
 
