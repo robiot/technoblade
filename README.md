@@ -4,6 +4,7 @@ A website that shows all of your lovely quotes.
 
 As soon as I heard what happened, I knew I needed to contribute with something. So I did what I'm best at.
 
+# NOTE: Me and [Ahnaf](https://github.com/ahnaf-zamil) are currently working on a easier way to submit quotes. 
 # Contributing with your own quote.
 1. First you will need a github account, which easily can be created. Else check this https://www.wikihow.com/Create-an-Account-on-GitHub
 2. Go to this file https://github.com/robiot/technoblade/blob/master/quotes.ts and press the edit button in the top right corner. 
