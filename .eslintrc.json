@@ -8,9 +8,7 @@
   "plugins": ["lvksh"],
   "extends": [
       "plugin:lvksh/recommended",
-      "plugin:styled-components-a11y/recommended",
-      "plugin:@next/next/recommended",
-      "plugin:react/recommended"
+      "plugin:@next/next/recommended"
   ],
   "env": {
       "node": true,
