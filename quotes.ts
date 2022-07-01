@@ -39,6 +39,10 @@ export const Quotes: {
     author: "synthium",
   },
   {
+    quote: "Long live the king ♥️",
+    author: "Vedrecide",
+  },
+  {
     quote: "I’m happy we shared great memories together, from our duels where I got completely outclassed to the rank ceremony, events, and many more. I have a hard time watching these videos now; we didn’t know these were the good old days",
     author: "Simon Hypixel",
   },
@@ -54,5 +58,4 @@ export const Quotes: {
     quote: "I'm heartbroken that I'll never see a new technoblade video again. So long my friend, and may all your potato minions be tier 12 in heaven.",
     author: "heurican"    
   },
- 
 ];
