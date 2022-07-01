@@ -34,4 +34,8 @@ export const Quotes: {
     quote: "So long, blood god",
     author: "MSWord",
   },
+  {
+    quote: "Forever alive in our hearts",
+    author: "synthium",
+  },
 ];
