@@ -58,4 +58,8 @@ export const Quotes: {
     quote: "I'm heartbroken that I'll never see a new technoblade video again. So long my friend, and may all your potato minions be tier 12 in heaven.",
     author: "heurican"    
   },
+  {
+        quote: "I am very sad i cried too",
+        author: "shabman"
+  }
 ];
