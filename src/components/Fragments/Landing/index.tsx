@@ -3,6 +3,7 @@ import { FaAngleDown, FaPlus } from "react-icons/fa";
 
 import {
   AddQuoteButton,
+  Anchor,
   DownArrow,
   MainImage,
   SmallerSubtitle,
@@ -26,12 +27,12 @@ export const LandingFragment: FC = () => {
         </a>
       </SmallerSubtitle>
 
-      <a href="/quotes/add">
+      <Anchor href="/quotes/add">
         <AddQuoteButton>
           <FaPlus fontSize={20} />
           Add your Quote
         </AddQuoteButton>
-      </a>
+      </Anchor>
 
       <DownArrow href="#quotes">
         <FaAngleDown fontSize={30} />

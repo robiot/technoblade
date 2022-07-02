@@ -65,3 +65,8 @@ export const DownArrow = styled.a`
   bottom: 0;
   margin-bottom: 1rem;
 `;
+
+export const Anchor = styled.a`
+  text-decoration: none;
+  color: inherit;
+`;

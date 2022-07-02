@@ -17,6 +17,7 @@ export const Button = styled.button`
   font-weight: bold;
   font-size: 0.9rem;
   cursor: pointer;
+  color: inherit;
 
   display: flex;
   justify-content: center;
