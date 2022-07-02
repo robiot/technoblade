@@ -26,14 +26,12 @@ export const LandingFragment: FC = () => {
         </a>
       </SmallerSubtitle>
 
-      <AddQuoteButton
-        onClick={() => {
-          alert("Under construction. Please come by later!!");
-        }}
-      >
-        <FaPlus fontSize={20} />
-        Add your Quote
-      </AddQuoteButton>
+      <a href="/quotes/add">
+        <AddQuoteButton>
+          <FaPlus fontSize={20} />
+          Add your Quote
+        </AddQuoteButton>
+      </a>
 
       <DownArrow href="#quotes">
         <FaAngleDown fontSize={30} />

@@ -4,7 +4,7 @@ export const Wrapper = styled.div`
   display: flex;
   margin-bottom: 3rem;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 1.2rem;
   scroll-margin-top: 1rem;
 `;
 
