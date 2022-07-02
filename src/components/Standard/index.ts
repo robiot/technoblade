@@ -1,9 +1,9 @@
 import styled from "styled-components";
 
-export const Conatiner = styled.div`
+export const Container = styled.div`
   padding: 0 2rem;
   width: 100%;
-  max-width: 800px;
+  max-width: 1024px;
   margin-left: auto;
   margin-right: auto;
 `;
@@ -17,6 +17,7 @@ export const Button = styled.button`
   font-weight: bold;
   font-size: 0.9rem;
   cursor: pointer;
+  color: inherit;
 
   display: flex;
   justify-content: center;
