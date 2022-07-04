@@ -3,7 +3,7 @@ import { ServerStyleSheet } from "styled-components";
 
 const MainDocument = () => {
   return (
-    <Html>
+    <Html lang="en">
       <Head />
       <body>
         <Main />

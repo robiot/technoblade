@@ -13,8 +13,16 @@ declare module "styled-components" {
         foreground: string;
       };
 
+      tertiary: {
+        background: string;
+        foreground: string;
+      };
+
       accent: {
         green: {
+          default: string;
+        };
+        red: {
           default: string;
         };
       };

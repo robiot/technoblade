@@ -15,6 +15,9 @@ export const MainImage = styled.img`
   width: 10rem;
   max-width: 100%;
   margin-bottom: 2rem;
+  @media (max-width: ${({ theme }) => theme.breakpoints.medium}) {
+    display: none;
+  }
 `;
 
 export const Title = styled.h1`
