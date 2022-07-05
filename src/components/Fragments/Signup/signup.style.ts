@@ -9,6 +9,8 @@ export const Wrapper = styled.div`
   gap: 1rem;
 `;
 
+export const Subtitle = styled.h2``;
+
 export const LoginButton = styled(Button)`
   background-color: #6c89e0;
 `;

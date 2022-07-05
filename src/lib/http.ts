@@ -1,5 +1,7 @@
 import axios from "axios";
 
+// const API_URL = "https://api.ahnafzamil.com/techno";
+
 const API_URL =
   process.env.NODE_ENV === "development"
     ? "http://localhost:5000"
@@ -8,7 +10,7 @@ const API_URL =
 // const CLIENT_ID = "811592714100801619";
 const CLIENT_ID = "992443485116452906"; // prod
 
-// const REDIRECT_URI = "http://localhost:3000/oauth/callback";
+// const REDIRECT_URI = "https://technoblade.love/oauth/callback";
 
 const REDIRECT_URI =
   process.env.NODE_ENV === "development"

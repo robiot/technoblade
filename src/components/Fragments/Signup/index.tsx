@@ -1,8 +1,7 @@
 import { OAUTH_URI } from "@lib/http";
 import { FC } from "react";
 
-import { Subtitle } from "../Landing/landing.style";
-import { LoginButton, Wrapper } from "./signup.style";
+import { LoginButton, Subtitle, Wrapper } from "./signup.style";
 
 export const SignupFragment: FC = () => {
   return (
