@@ -34,7 +34,7 @@ export const QuotesFragment: FC = () => {
         <>
           {quotes.map((quote, index) => (
             <Quote key={index}>
-              <QuoteText>{quote.content}</QuoteText>
+              <QuoteText>"{quote.content}"</QuoteText>
               <p>- {quote.author || "Anonymous"}</p>
             </Quote>
           ))}
