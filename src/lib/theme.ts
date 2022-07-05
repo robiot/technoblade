@@ -12,9 +12,17 @@ export const DarkTheme: DefaultTheme = {
       foreground: "#FFFFFF",
     },
 
+    tertiary: {
+      background: "#3b3b3b",
+      foreground: "#FFFFFF",
+    },
+
     accent: {
       green: {
         default: "#008000",
+      },
+      red: {
+        default: "#d92121",
       },
     },
   },

@@ -1,5 +1,6 @@
 import { httpClient } from "@lib/http";
 import { NextPage } from "next";
+import Router from "next/router";
 import queryString from "query-string";
 import { useEffect } from "react";
 
@@ -10,7 +11,7 @@ const OauthCallback: NextPage = () => {
     if (parsedQuery.code) {
       (async () => {
         await httpClient.post("/oauth/callback", { code: parsedQuery.code });
-        window.location.href = "/quotes/add";
+        Router.push("/quotes/add");
       })();
     }
   }, []);

@@ -13,12 +13,9 @@ const AddQuotes: NextPage = () => {
 
   useEffect(() => {
     (async () => {
-      try {
-        await httpClient.get("/auth");
-        setIsAuthed(true);
-      } catch {
-        setIsAuthed(false);
-      }
+      const response = await httpClient.get("/auth");
+
+      setIsAuthed(response.status == 200);
     })();
   }, []);
 
